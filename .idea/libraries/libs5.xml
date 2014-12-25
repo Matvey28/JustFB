@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../facebook-android-sdk-3.21.1/AudienceNetwork/samples/AdUnitsSample/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../facebook-android-sdk-3.21.1/AudienceNetwork/samples/AdUnitsSample/libs/AudienceNetwork.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
