@@ -85,7 +85,6 @@ public class MyActivity extends FragmentActivity {
         requestPermission();
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         startActivityForResult(intent, 0);
-
     }
 
     @Override
